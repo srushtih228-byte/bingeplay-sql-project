@@ -42,4 +42,4 @@ The questions ranged from foundational revenue reporting to advanced product int
 *   `bingeplay_setup.sql` - The SQL script used to generate the database and insert the mock data.
 
 ---
-*Created as part of the Data Analytics & Data Science Track at The Unlox Academy.*
+
